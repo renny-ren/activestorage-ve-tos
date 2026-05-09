@@ -1,6 +1,7 @@
 # activestorage-ve-tos
 
-ActiveStorage adapter for [Volcengine TOS](https://www.volcengine.com/docs/6349). Wraps ve-tos-ruby-sdk.
+ActiveStorage adapter for [Volcengine TOS](https://www.volcengine.com/docs/6349).
+Wraps [ve-tos-ruby-sdk](https://github.com/renny-ren/ve-tos-ruby-sdk).
 
 ## Installation
 
