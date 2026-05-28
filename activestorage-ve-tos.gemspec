@@ -14,7 +14,7 @@ Gem::Specification.new do |spec|
   spec.files = Dir["lib/**/*.rb", "README.md", "LICENSE", "activestorage-ve-tos.gemspec"]
   spec.require_paths = ["lib"]
 
-  spec.add_dependency "ve-tos-ruby-sdk", ">= 0.1.0"
+  spec.add_dependency "ve-tos-ruby-sdk", ">= 0.1.3"
   spec.add_dependency "activestorage", ">= 6.1"
 
   spec.add_development_dependency "rspec", "~> 3.12"
